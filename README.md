@@ -36,7 +36,7 @@
 ## Repository Structure
 
 ```bash
-BITAmin-Spring-Regular-Session
+BITAmin-Spring-Session
 ├── codex-dashboard-demo/ # Dashboard demo
 ├── codex-readme-demo/    # README automation demo
 ├── docker-demo/          # Docker practice
