@@ -33,7 +33,7 @@
 
 ---
 
-## Repository Structure
+## Directory Structure
 
 ```bash
 BITAmin-Spring-Session
